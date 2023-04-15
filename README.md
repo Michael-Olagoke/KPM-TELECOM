@@ -1,4 +1,4 @@
-#KPM TELECOM Q3 CHURN ANALYSIS
+# KPM TELECOM Q3 CHURN ANALYSIS
 ## CHURN ANALYSIS REPORT 
 ![image](https://user-images.githubusercontent.com/92734328/232178924-33c621db-b20b-4314-9c93-96fb23be4d3e.png)
 
